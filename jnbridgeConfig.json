@@ -1,0 +1,16 @@
+{
+  "dotNetToJavaConfig": {
+    "scheme": "sharedmem",
+    //"jvmOptions": [ "list", "of", "jvm options" ], // optional
+    // if jvm32 and jvm64 are both used, the one of the
+    // appropriate process bitness will be used.
+    "jvm32": "C:\\Program Files (x86)\\Java\\jre1.8.0_231\\bin\\client\\jvm.dll",
+    "jvm64": "C:\\Program Files\\Java\\jre1.8.0_231\\bin\\server\\jvm.dll",
+    "jnbcore": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\jnbcore.jar",
+    "bcel": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\bcel-5.1-jnbridge.jar",
+    "classpath": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\drools-hello-world-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
+  },
+  "licenseLocation": {
+    "directory": "C:\\Program Files (x86)\\JNBridge\\JNBridgePro v10.1"
+  }
+}
