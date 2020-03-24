@@ -8,7 +8,7 @@
     "jvm64": "C:\\Program Files\\Java\\jre1.8.0_231\\bin\\server\\jvm.dll",
     "jnbcore": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\jnbcore.jar",
     "bcel": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\bcel-5.1-jnbridge.jar",
-    "classpath": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\drools-hello-world-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
+    "classpath": "C:\\JNBridge Demos\\DotNetCore2J_HelloWorld_v10.1\\ConsoleApp_latest\\java\\dish-decision-1.0-SNAPSHOT.jar"
   },
   "licenseLocation": {
     "directory": "C:\\Program Files (x86)\\JNBridge\\JNBridgePro v10.1"

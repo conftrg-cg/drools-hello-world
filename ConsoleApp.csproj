@@ -11,8 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="DroolsTest">
-      <HintPath>proxies\DroolsTest.dll</HintPath>
+    <Reference Include="DishDecider">
+      <HintPath>proxies\DishDecider.dll</HintPath>
     </Reference>
     <Reference Include="JNBShare">
       <HintPath>JNBShare.dll</HintPath>

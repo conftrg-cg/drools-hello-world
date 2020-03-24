@@ -7,7 +7,7 @@
 // Demo assumes there is a valid JNBridgePro evaluation license in default location: "C:\\Program Files (x86)\\JNBridge\\JNBridgePro v10.1"
 
 using System;
-using com.javainuse;
+using com.dmn;
 //using helloWorldDemo; 
 
 namespace ConsoleApp
@@ -20,9 +20,9 @@ namespace ConsoleApp
 
             //int a = 255;
             //int b = 2;
-            var dt = new DroolsTest();
+            var dt = new DMNRunner();
             
-            dt.execute();
+            var result = dt.runNew("Summer",4);
 
 
             Console.ReadLine();
