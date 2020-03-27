@@ -22,9 +22,9 @@ namespace ConsoleApp
             //int b = 2;
             var dt = new DMNRunner();
             
-            var result = dt.runNew("Summer",4);
-
-
+            //var result = dt.runNew("Fall",40);
+            var result = dt.runBmi(58, 70);
+            Console.WriteLine(result);
             Console.ReadLine();
             
         }
