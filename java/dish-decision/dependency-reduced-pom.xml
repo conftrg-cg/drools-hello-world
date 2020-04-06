@@ -65,6 +65,11 @@
                 <transformer>
                   <resource>META-INF/kie.conf</resource>
                 </transformer>
+                <transformer />
+                <transformer />
+                <transformer>
+                  <resource>META-INF/sisu/javax.inject.Named</resource>
+                </transformer>
               </transformers>
             </configuration>
           </execution>
